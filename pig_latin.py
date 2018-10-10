@@ -1,7 +1,7 @@
 pig = 'ay'
 none = "empty"
 
-original = raw_input('Enter a word:') # not sure which version this supports in Python, should be updated to 3.x
+original = input("Enter a word:") 
 
 if len(original) > 0 and original.isalpha():
   word = original.lower()
