@@ -28,4 +28,4 @@ def roll_dice(number_of_sides):
         else:
             print("Bad luck! You sadly lost :<")
 
-roll_dice(6) #Traditional die pieces
+roll_dice(6) #Traditional dice cubes. 
